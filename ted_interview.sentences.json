@@ -1,0 +1,3850 @@
+[
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Elon Musk.",
+        "start": 0.3,
+        "end": 0.96,
+        "duration": 0.66
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Great to see you.",
+        "start": 1.05,
+        "end": 1.83,
+        "duration": 0.78
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How are you?",
+        "start": 1.86,
+        "end": 2.4,
+        "duration": 0.54
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Good.",
+        "start": 2.73,
+        "end": 2.92,
+        "duration": 0.19
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "How are you?",
+        "start": 2.94,
+        "end": 3.27,
+        "duration": 0.33
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, we're here at the Texas Gigafactory the day before this thing opens.",
+        "start": 4.02,
+        "end": 9.17,
+        "duration": 5.15
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It's been pretty crazy out there.",
+        "start": 9.18,
+        "end": 11.02,
+        "duration": 1.84
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Thank you so much for making time.",
+        "start": 11.04,
+        "end": 12.63,
+        "duration": 1.59
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You've often said it the last time you spoke at Ted, you said that that was really just a big driver.",
+        "start": 29.4,
+        "end": 34.02,
+        "duration": 4.62
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You know, you talk about lots of other reasons to do the what you're doing, but fundamentally, <pause> you <pause> want <pause> to think about the future and not think that it sucks.",
+        "start": 34.23,
+        "end": 43.02,
+        "duration": 8.79
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, absolutely.",
+        "start": 43.92,
+        "end": 44.73,
+        "duration": 0.81
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I think in general, <filler> you know, there's <pause> there's a lot of discussion of, of like this problem with that problem.",
+        "start": 44.73,
+        "end": 50.52,
+        "duration": 5.79
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And a lot of people are, <pause> <filler> sad about the future and then that there, <pause> pessimistic and I think, <pause> this is, this is, <filler> <pause> it's not not great.",
+        "start": 50.52,
+        "end": 66.05,
+        "duration": 15.53
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, we really want to <pause> wake up the morning and and look forward to the future.",
+        "start": 66.06,
+        "end": 70.89,
+        "duration": 4.83
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We want to be excited about, <pause> what's going to happen.",
+        "start": 71.01,
+        "end": 74.43,
+        "duration": 3.42
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So if you look forward 30 years, you know, this year, <pause> the year 2050 <pause> has been <pause> labeled by <pause> scientists as this kind of <pause> almost like this doomsday deadline on climate.",
+        "start": 82.5,
+        "end": 93.83,
+        "duration": 11.33
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "There's a there's a consensus of scientists at large, consensus scientists who believe that <pause> if we haven't <pause> completely, <filler> eliminated greenhouse gases or offset them completely by 2050, <pause> effectively, we're inviting climate catastrophe.",
+        "start": 93.84,
+        "end": 108.87,
+        "duration": 15.03
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Do you believe there is a pathway to avoid that catastrophe?",
+        "start": 109.23,
+        "end": 113.47,
+        "duration": 4.24
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And what would it look like?",
+        "start": 113.49,
+        "end": 114.87,
+        "duration": 1.38
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, yeah.",
+        "start": 116.85,
+        "end": 117.33,
+        "duration": 0.48
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <pause> <filler> I am not one of the doomsday people, which might surprise.",
+        "start": 117.33,
+        "end": 121.53,
+        "duration": 4.2
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So I can't emphasize that enough.",
+        "start": 145.35,
+        "end": 147.42,
+        "duration": 2.07
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "As long as we, <pause> <filler> push hard, <pause> <filler> and are not complacent.",
+        "start": 147.42,
+        "end": 151.71,
+        "duration": 4.29
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "One is of sustainable energy generation, <filler> which is primarily wind and solar.",
+        "start": 167.31,
+        "end": 171.39,
+        "duration": 4.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "To store, <pause> <filler> the solar and wind energy, because the sun is sunshine all the time.",
+        "start": 193.29,
+        "end": 197.67,
+        "duration": 4.38
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "The wind is blowing all the time.",
+        "start": 197.67,
+        "end": 198.69,
+        "duration": 1.02
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And end rockets, <filler> using sustainable energy.",
+        "start": 214.26,
+        "end": 217.26,
+        "duration": 3.0
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Right?",
+        "start": 217.26,
+        "end": 217.6,
+        "duration": 0.34
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <pause> <filler> ultimately, we can have a fully sustainable energy economy.",
+        "start": 217.62,
+        "end": 222.12,
+        "duration": 4.5
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And then whatever the slowest element of the whole, <filler> lithium ion battery cells, <pause> supply chain from mining, <pause> <filler> and the many steps of refining to ultimately creating a battery cell, <pause> and putting it into a pack that will be the limiting factor on progress towards sustainability.",
+        "start": 239.61,
+        "end": 255.84,
+        "duration": 16.23
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "All right.",
+        "start": 255.99,
+        "end": 256.35,
+        "duration": 0.36
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So we need to talk more about batteries, because the key thing that I want to understand, like there seems to be a scaling issue here that is <pause> kind of amazing and alarming.",
+        "start": 256.56,
+        "end": 265.81,
+        "duration": 9.25
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You have said that you have calculated <pause> that the amount of battery production <pause> that the world needs for sustainability is <pause> 300 terawatt hours of battery.",
+        "start": 265.83,
+        "end": 278.07,
+        "duration": 12.24
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "If that's the <pause> that's the <pause> rough, <pause> very rough numbers.",
+        "start": 278.1,
+        "end": 281.72,
+        "duration": 3.62
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And I certainly would invite others to <pause> check our calculations because they may arrive at a different bit, different conclusions.",
+        "start": 281.73,
+        "end": 287.34,
+        "duration": 5.61
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It amounts to a proxy mately <pause> 300 terawatt hours of installed capacity.",
+        "start": 301.68,
+        "end": 306.51,
+        "duration": 4.83
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So we need to give people a sense of <pause> how big <pause> a task that is.",
+        "start": 306.75,
+        "end": 311.24,
+        "duration": 4.49
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, here we are at <pause> the Gigafactory.",
+        "start": 311.25,
+        "end": 313.47,
+        "duration": 2.22
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You know, this is <pause> what this is <pause> one of the biggest buildings in the world.",
+        "start": 313.5,
+        "end": 318.42,
+        "duration": 4.92
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We'll probably do more than that.",
+        "start": 331.44,
+        "end": 332.52,
+        "duration": 1.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But <pause> yes, that's <pause> hopefully we get the within a couple of years.",
+        "start": 332.52,
+        "end": 337.17,
+        "duration": 4.65
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Right.",
+        "start": 337.41,
+        "end": 337.8,
+        "duration": 0.39
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "1.1 terawatt hours.",
+        "start": 340.98,
+        "end": 342.6,
+        "duration": 1.62
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But that's still 1/100 of what's needed.",
+        "start": 343.17,
+        "end": 346.61,
+        "duration": 3.44
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How much of the rest of that <pause> 100 is, is Tesla planning to take on <pause> between, let's say, between now and <pause> 2030, 2040?",
+        "start": 346.62,
+        "end": 357.42,
+        "duration": 10.8
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, this is just guesses.",
+        "start": 361.74,
+        "end": 362.82,
+        "duration": 1.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, <filler> so please and <pause> should hold me to these things.",
+        "start": 362.82,
+        "end": 366.29,
+        "duration": 3.47
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's not like this is like, <pause> <filler> some <pause> what what has happened was I'll <pause> make some, like, you know, best guess.",
+        "start": 366.3,
+        "end": 373.26,
+        "duration": 6.96
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And then people will <pause> in five years, they'll be some truck that writes article.",
+        "start": 373.26,
+        "end": 377.01,
+        "duration": 3.75
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Elon said this would happen <pause> and it didn't happen.",
+        "start": 377.04,
+        "end": 380.37,
+        "duration": 3.33
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "He's a liar and a fool.",
+        "start": 380.37,
+        "end": 381.78,
+        "duration": 1.41
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, it's very annoying when that happens.",
+        "start": 381.96,
+        "end": 384.09,
+        "duration": 2.13
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Roughly 20, let's say 2050.",
+        "start": 395.13,
+        "end": 397.56,
+        "duration": 2.43
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "We have this <pause> amazing, <pause> you know, 100% sustainable <pause> electric grid made up of, you know, some mixture of the sustainable energy sources.",
+        "start": 397.59,
+        "end": 406.56,
+        "duration": 8.97
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You talked about <pause> that <pause> that same grid probably is offering the world really low cost energy, isn't it, compared compared with now.",
+        "start": 406.56,
+        "end": 416.01,
+        "duration": 9.45
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "People should be optimistic about the future.",
+        "start": 426.78,
+        "end": 428.73,
+        "duration": 1.95
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So now, you know, obviously, in order to pull it out, you need to <pause> use a lot of energy.",
+        "start": 457.23,
+        "end": 461.28,
+        "duration": 4.05
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But if you've got <pause> <filler> a lot of, <filler> sustainable energy from wind and solar, <pause> <filler> you can actually <pause> sequester carbon so you can <pause> reverse the CO2, <filler> parts per million of the atmosphere and oceans.",
+        "start": 461.28,
+        "end": 471.9,
+        "duration": 10.62
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But earth is mostly water.",
+        "start": 477.06,
+        "end": 478.23,
+        "duration": 1.17
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We should call earth water.",
+        "start": 478.23,
+        "end": 479.25,
+        "duration": 1.02
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's 70% water by surface area.",
+        "start": 479.25,
+        "end": 481.02,
+        "duration": 1.77
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And with energy, you can turn seawater into.",
+        "start": 487.41,
+        "end": 489.66,
+        "duration": 2.25
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 489.69,
+        "end": 490.14,
+        "duration": 0.45
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Irrigating water or.",
+        "start": 490.62,
+        "end": 491.76,
+        "duration": 1.14
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Whatever.",
+        "start": 491.88,
+        "end": 492.18,
+        "duration": 0.3
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "We good <pause> things will be good.",
+        "start": 495.57,
+        "end": 497.04,
+        "duration": 1.47
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yes.",
+        "start": 497.07,
+        "end": 497.34,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And also the, the benefits right, to this non-fossil fuel world where the air is cleaner and, yes.",
+        "start": 497.58,
+        "end": 502.36,
+        "duration": 4.78
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Exactly.",
+        "start": 502.38,
+        "end": 502.98,
+        "duration": 0.6
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 502.98,
+        "end": 503.22,
+        "duration": 0.24
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 503.22,
+        "end": 503.37,
+        "duration": 0.15
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "If you're going to be good.",
+        "start": 525.96,
+        "end": 526.65,
+        "duration": 0.69
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I want us to switch now to think a bit about artificial intelligence.",
+        "start": 526.92,
+        "end": 529.83,
+        "duration": 2.91
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So when it comes to predicting <pause> sales of Tesla vehicles, for example, <pause> I mean, you kind of been amazing, I think in 2014 <pause> when Tesla had sold that year 60,000 cars, <pause> you said 2020, I think we will do half a million a year.",
+        "start": 550.41,
+        "end": 566.34,
+        "duration": 15.93
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, we did almost exactly half a million.",
+        "start": 566.37,
+        "end": 567.81,
+        "duration": 1.44
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You did almost exactly how <pause> you were scoffed in 2014 because no one.",
+        "start": 567.84,
+        "end": 571.44,
+        "duration": 3.6
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah.",
+        "start": 571.53,
+        "end": 571.79,
+        "duration": 0.26
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Since <pause> Henry Ford <pause> with the model T, had come close to that kind of growth rate.",
+        "start": 571.8,
+        "end": 576.99,
+        "duration": 5.19
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah.",
+        "start": 577.05,
+        "end": 577.19,
+        "duration": 0.14
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "For for cars.",
+        "start": 577.26,
+        "end": 578.13,
+        "duration": 0.87
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yep.",
+        "start": 591.54,
+        "end": 591.81,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, I do want to blow your mind, but I'm not always right.",
+        "start": 600.81,
+        "end": 603.42,
+        "duration": 2.61
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So <pause> what's the speed as to why why, <pause> why has full Self-Driving in particular been so hard to predict?",
+        "start": 605.58,
+        "end": 613.11,
+        "duration": 7.53
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, the thing that really got me, and I think it's going to get a lot of other people, is that <pause> there are just so many false dawns with <pause> self-driving, <filler> where you think you think you got <pause> the problem, <pause> have a handle on the problem, and then it.",
+        "start": 613.29,
+        "end": 627.03,
+        "duration": 13.74
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "No, <pause> <filler> turns out, <pause> <filler> you just hit a ceiling.",
+        "start": 627.03,
+        "end": 630.84,
+        "duration": 3.81
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "The progress looks like a log curve.",
+        "start": 637.33,
+        "end": 638.97,
+        "duration": 1.64
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So it's like <pause> a series of log curves.",
+        "start": 639.09,
+        "end": 641.58,
+        "duration": 2.49
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <pause> <filler> but what I would like to do is, I suppose, but <pause> it's.",
+        "start": 641.58,
+        "end": 645.49,
+        "duration": 3.91
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It.",
+        "start": 646.74,
+        "end": 647.15,
+        "duration": 0.41
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Goes it goes up sort of, <pause> you know, sort of a fairly straight way.",
+        "start": 647.25,
+        "end": 650.22,
+        "duration": 2.97
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And then it starts tailing off and, and and you.",
+        "start": 650.22,
+        "end": 652.86,
+        "duration": 2.64
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Start <pause> getting.",
+        "start": 652.86,
+        "end": 654.06,
+        "duration": 1.2
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Diminishing returns.",
+        "start": 654.06,
+        "end": 655.11,
+        "duration": 1.05
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I, <pause> <filler> yeah, yeah.",
+        "start": 685.74,
+        "end": 688.34,
+        "duration": 2.6
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Because you say, like, what are the road networks designed to to work with?",
+        "start": 688.35,
+        "end": 692.37,
+        "duration": 4.02
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "They're designed to work with a biological neural net, our brains, <filler> and with, <filler> vision.",
+        "start": 692.49,
+        "end": 698.82,
+        "duration": 6.33
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Our eyes.",
+        "start": 698.82,
+        "end": 699.36,
+        "duration": 0.54
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "You know, when you.",
+        "start": 727.11,
+        "end": 727.74,
+        "duration": 0.63
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "What do you feel about the current architecture?",
+        "start": 736.98,
+        "end": 738.33,
+        "duration": 1.35
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Do you think you have an architecture now, where where there is <pause> a chance for the logarithmic curve not to tail off any, any time soon?",
+        "start": 738.33,
+        "end": 746.91,
+        "duration": 8.58
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, I mean, <pause> mentally, these these, <filler> maybe an infamous, <filler> last words, but I, I actually I'm confident that we will solve it this year, <pause> <filler> that we will exceed, <filler> <pause> you know, to see like what the probability, <pause> <filler> of an accident, <filler> what points do you exceed that of the average person?",
+        "start": 747.63,
+        "end": 764.49,
+        "duration": 16.86
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Right.",
+        "start": 764.7,
+        "end": 764.97,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "What are you seeing behind the scenes that gives you that confidence?",
+        "start": 767.25,
+        "end": 770.61,
+        "duration": 3.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Or almost at the point we have a high quality, <filler> unified vector space.",
+        "start": 771.06,
+        "end": 775.35,
+        "duration": 4.29
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So the so the first thing we had to do is would tie all eight cameras together.",
+        "start": 795.69,
+        "end": 799.26,
+        "duration": 3.57
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So <pause> they're synchronized so that all the frames are looked at simultaneously and labeled simultaneously by by a one person, because we still need human labeling.",
+        "start": 799.26,
+        "end": 807.78,
+        "duration": 8.52
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And then, <filler> so, so it's, it's sort of a surround picture then, <pause> then a very important part is to add the time dimension.",
+        "start": 814.62,
+        "end": 821.22,
+        "duration": 6.6
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And then, <pause> create, <filler> an order labeling, <pause> create order labeling software to amplify the efficiency of human labelers because it's quite hard to label, but it takes <pause> in beginning, it was taking several hours to label <pause> a ten second video clip.",
+        "start": 837.57,
+        "end": 853.62,
+        "duration": 16.05
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So you get the flywheel eventually with the auto labeler is able to take in vast amounts of video <pause> and with high accuracy, automatically label, <pause> <filler> the video for, <pause> you know, <pause> cars, lane lines, drive space.",
+        "start": 874.59,
+        "end": 886.68,
+        "duration": 12.09
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "What you're saying is that, <filler> that you you <pause> think <pause> that, <pause> I mean, the result of this is that you're effectively giving the car a <pause> 3D model of the actual objects that are all around it.",
+        "start": 886.95,
+        "end": 898.53,
+        "duration": 11.58
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It knows <pause> what they are, and it knows how fast they are moving.",
+        "start": 898.53,
+        "end": 903.81,
+        "duration": 5.28
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And the remaining task is to.",
+        "start": 903.81,
+        "end": 906.21,
+        "duration": 2.4
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes, is.",
+        "start": 906.48,
+        "end": 907.08,
+        "duration": 0.6
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "To predict <pause> what the quirky behaviors are that that you know that when a pedestrian is walking down the road with a smaller pedestrian, that maybe that smaller pedestrian might do something unpredictable or <pause> like, say things like that, that <pause> you have to build into it before you can really call it safe.",
+        "start": 907.08,
+        "end": 924.03,
+        "duration": 16.95
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "You basically <pause> have, <filler> memory across time and space.",
+        "start": 924.12,
+        "end": 929.88,
+        "duration": 5.76
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, like, if you talk about, say, a pedestrian walking past a truck where you saw the pedestrian, <pause> <filler> start on one side of the truck, then they then they're occluded by the truck.",
+        "start": 949.2,
+        "end": 959.61,
+        "duration": 10.41
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Right.",
+        "start": 959.61,
+        "end": 959.97,
+        "duration": 0.36
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And <pause> and you need to doesn't know you.",
+        "start": 966.69,
+        "end": 968.52,
+        "duration": 1.83
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Need to slow down.",
+        "start": 968.52,
+        "end": 969.48,
+        "duration": 0.96
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, a skeptic is going to say that <pause> every year for the last five years, <pause> you've kind of said, well, <pause> now this is the year where <filler> we were confident that it will be there in a year or two or, you know, like it's it's always been about that, <pause> that far away.",
+        "start": 969.48,
+        "end": 983.04,
+        "duration": 13.56
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But you're, <pause> we've got a new architecture now.",
+        "start": 983.04,
+        "end": 985.89,
+        "duration": 2.85
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You're seeing enough improvement behind the scenes to, to make you not certain, but <pause> but pretty confident that that this by the end of this year.",
+        "start": 985.89,
+        "end": 993.6,
+        "duration": 7.71
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Well in most not in every city and every circumstance, but in many <pause> cities and circumstances, basically the car will be able to drive without interventions safer than a human.",
+        "start": 993.84,
+        "end": 1003.14,
+        "duration": 9.3
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 1003.86,
+        "end": 1004.01,
+        "duration": 0.15
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So I mean, <pause> the car currently drives me around Austin <pause> most of the time with no interventions.",
+        "start": 1004.01,
+        "end": 1008.66,
+        "duration": 4.65
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Some of them are great, and some of them are a little terrifying.",
+        "start": 1024.23,
+        "end": 1026.48,
+        "duration": 2.25
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, occasionally the car seems to sort of, like, veer off and scare the hell out of people.",
+        "start": 1026.48,
+        "end": 1030.92,
+        "duration": 4.44
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But.",
+        "start": 1032.9,
+        "end": 1033.12,
+        "duration": 0.22
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It's still better.",
+        "start": 1033.29,
+        "end": 1033.93,
+        "duration": 0.64
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 1043.4,
+        "end": 1043.74,
+        "duration": 0.34
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So <pause> that's what it seems like.",
+        "start": 1043.76,
+        "end": 1044.93,
+        "duration": 1.17
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I, you know, like, <pause> you know, we could be here, <pause> talking again in a year, like.",
+        "start": 1044.99,
+        "end": 1048.86,
+        "duration": 3.87
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, <pause> yeah, another year went by and it didn't happen.",
+        "start": 1048.86,
+        "end": 1051.53,
+        "duration": 2.67
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But I think this I think this is the year.",
+        "start": 1051.53,
+        "end": 1053.21,
+        "duration": 1.68
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And so in general when, when people talk about Ellen, Ellen time, I mean, it sounds like, like you can't just have a general rule that if you predict that something will be done in six months, actually, what you what we should imagine is it's going to be a year or it's like two, three weeks.",
+        "start": 1053.3,
+        "end": 1066.8,
+        "duration": 13.5
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It depends <pause> on the type of prediction.",
+        "start": 1066.8,
+        "end": 1068.54,
+        "duration": 1.74
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Some things I guess, things involving <pause> software.",
+        "start": 1068.54,
+        "end": 1071.55,
+        "duration": 3.01
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, I generally believe, <filler> in terms of internal, <filler> timelines that we want to set, <pause> set the most aggressive timeline that we can, <pause> <filler> because there's sort of like a low of gas expansion where, <pause> you know, for schedules where whatever <pause> time you set, it's it's not going to be less than that.",
+        "start": 1086.63,
+        "end": 1102.47,
+        "duration": 15.84
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's very <pause> rare that it'll be less than that.",
+        "start": 1102.47,
+        "end": 1104.75,
+        "duration": 2.28
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But <pause> as far as my predictions are concerned, <filler> what tends to happen in media is that they will report all the wrong ones and ignore all the right ones, <pause> right.",
+        "start": 1106.13,
+        "end": 1113.0,
+        "duration": 6.87
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But if you put those against the <pause> my.",
+        "start": 1123.08,
+        "end": 1125.06,
+        "duration": 1.98
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "You know, the things I've done right, it makes much more sense, <pause> you know?",
+        "start": 1125.15,
+        "end": 1128.27,
+        "duration": 3.12
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 1148.91,
+        "end": 1149.12,
+        "duration": 0.21
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's sort of like, <filler> you know, <pause> <filler> you know, if there's some <pause> radical technology prediction.",
+        "start": 1171.62,
+        "end": 1177.8,
+        "duration": 6.18
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And so it feels like at some point in the last year, <pause> seeing the progress on <pause> understanding that, <pause> that the AI, the Tesla AI, understanding the world around it led to a kind of <pause> an <filler> moment it took because you really surprised people recently when you said, <pause> probably the most important product development going on at Tesla this year <pause> is this robot Optimus.",
+        "start": 1185.51,
+        "end": 1210.08,
+        "duration": 24.57
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 1210.11,
+        "end": 1210.5,
+        "duration": 0.39
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Many companies out there have tried to put out <pause> the robots.",
+        "start": 1211.01,
+        "end": 1214.55,
+        "duration": 3.54
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I've been working on them for years and so far no one has really <pause> cracked it.",
+        "start": 1214.55,
+        "end": 1218.75,
+        "duration": 4.2
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "There's no mass adoption <pause> robot in people's homes.",
+        "start": 1218.75,
+        "end": 1222.59,
+        "duration": 3.84
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "There are some in in manufacturing.",
+        "start": 1222.59,
+        "end": 1224.33,
+        "duration": 1.74
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But <pause> like I would say that no one's <pause> really <pause> cracked it.",
+        "start": 1224.33,
+        "end": 1228.41,
+        "duration": 4.08
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "What <pause> is it?",
+        "start": 1228.41,
+        "end": 1230.09,
+        "duration": 1.68
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Something that happened in the development of full self-driving that gave you the confidence to say, you know what we could do something special <pause> here.",
+        "start": 1230.09,
+        "end": 1236.45,
+        "duration": 6.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, <filler> exactly.",
+        "start": 1237.44,
+        "end": 1238.55,
+        "duration": 1.11
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, you know, took me a while to <pause> sort of realize <pause> that in order to solve self-driving, you really need to solve real world AI.",
+        "start": 1238.55,
+        "end": 1246.23,
+        "duration": 7.68
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Right.",
+        "start": 1266.72,
+        "end": 1267.05,
+        "duration": 0.33
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So the the missing things are basically real world, <filler> intelligence and, <filler> scaling up manufacturing.",
+        "start": 1287.94,
+        "end": 1294.23,
+        "duration": 6.29
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So let's dig into exactly that.",
+        "start": 1310.7,
+        "end": 1312.68,
+        "duration": 1.98
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, in one way, it's actually an easier problem than full self-driving because you instead of an object going along at 60 miles an hour, which if it gets it wrong, someone will die.",
+        "start": 1312.68,
+        "end": 1322.25,
+        "duration": 9.57
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Walking speed based.",
+        "start": 1326.39,
+        "end": 1327.28,
+        "duration": 0.89
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And so a mistake is that there aren't lives at stake.",
+        "start": 1327.32,
+        "end": 1330.32,
+        "duration": 3.0
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "There might be embarrassment at stake.",
+        "start": 1330.32,
+        "end": 1331.85,
+        "duration": 1.53
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So <pause> I just take it over and, <filler> right.",
+        "start": 1331.85,
+        "end": 1335.75,
+        "duration": 3.9
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And murderous.",
+        "start": 1335.9,
+        "end": 1336.41,
+        "duration": 0.51
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And how safe was I?",
+        "start": 1336.41,
+        "end": 1337.19,
+        "duration": 0.78
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Right?",
+        "start": 1337.49,
+        "end": 1338.03,
+        "duration": 0.54
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Like like that the kind of thing that you could ask a robot to do <pause> would be what, like <pause> tidy up?",
+        "start": 1368.42,
+        "end": 1373.61,
+        "duration": 5.19
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Absolutely.",
+        "start": 1374.93,
+        "end": 1375.44,
+        "duration": 0.51
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Take a cup of tea to grandma and show her family pictures.",
+        "start": 1379.7,
+        "end": 1383.78,
+        "duration": 4.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Exactly.",
+        "start": 1384.47,
+        "end": 1384.87,
+        "duration": 0.4
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Take care of <pause> my grandmother and make sure.",
+        "start": 1384.89,
+        "end": 1387.89,
+        "duration": 3.0
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, exactly.",
+        "start": 1387.89,
+        "end": 1388.55,
+        "duration": 0.66
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "When it could recognize.",
+        "start": 1388.7,
+        "end": 1389.69,
+        "duration": 0.99
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Obviously recognize everyone in the home.",
+        "start": 1389.69,
+        "end": 1391.4,
+        "duration": 1.71
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 1391.4,
+        "end": 1391.64,
+        "duration": 0.24
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Could play catch with your kids.",
+        "start": 1391.97,
+        "end": 1393.53,
+        "duration": 1.56
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 1393.92,
+        "end": 1394.31,
+        "duration": 0.39
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "That would <pause> if anyone said that, then the robot would stop, you know, type of thing.",
+        "start": 1412.19,
+        "end": 1416.0,
+        "duration": 3.81
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah, <pause> that sounds wise.",
+        "start": 1421.55,
+        "end": 1423.56,
+        "duration": 2.01
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And I do think there should be a regulatory agency for AI.",
+        "start": 1423.74,
+        "end": 1425.93,
+        "duration": 2.19
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I've said this for many years.",
+        "start": 1425.93,
+        "end": 1427.01,
+        "duration": 1.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I don't I don't love being regulated, but I you know, I think this is an important thing for public safety.",
+        "start": 1427.13,
+        "end": 1431.45,
+        "duration": 4.32
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Let <pause> let's come back to that.",
+        "start": 1431.75,
+        "end": 1433.1,
+        "duration": 1.35
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But I'm just I don't think <pause> many people have really sort of taken seriously the notion of, <pause> you know, a robot at home.",
+        "start": 1433.1,
+        "end": 1440.91,
+        "duration": 7.81
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, at the start of the computing revolution, you know, Bill gates said there's going to be a computer in every home, and people at the time said, yeah, whatever.",
+        "start": 1440.96,
+        "end": 1446.93,
+        "duration": 5.97
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But who would even want that <pause> computer.",
+        "start": 1446.93,
+        "end": 1449.05,
+        "duration": 2.12
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "In our pocket?",
+        "start": 1449.21,
+        "end": 1449.84,
+        "duration": 0.63
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Do you think there will be basically like <pause> save, say, 2050 or whatever, <filler> like a, <pause> a robot in most homes, this is what they will be.",
+        "start": 1450.05,
+        "end": 1457.73,
+        "duration": 7.68
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And people thought, well, I think they probably have some account on them.",
+        "start": 1457.73,
+        "end": 1460.19,
+        "duration": 2.46
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 1462.71,
+        "end": 1462.98,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "You'll have your sort of buddy robot <pause> probably.",
+        "start": 1462.98,
+        "end": 1465.89,
+        "duration": 2.91
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, how much of a body do like to, to have how many applications you thought is that, <pause> you know, can you have a romantic partner sex part?",
+        "start": 1466.97,
+        "end": 1473.15,
+        "duration": 6.18
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, a lot of them probably inhabitable.",
+        "start": 1473.15,
+        "end": 1475.13,
+        "duration": 1.98
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Come <pause> into that, you know.",
+        "start": 1482.82,
+        "end": 1484.44,
+        "duration": 1.62
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, yeah, I guess, <filler> it'll be.",
+        "start": 1487.07,
+        "end": 1489.62,
+        "duration": 2.55
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "What what what are people.",
+        "start": 1489.62,
+        "end": 1490.76,
+        "duration": 1.14
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "What?",
+        "start": 1490.76,
+        "end": 1490.97,
+        "duration": 0.21
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Really, you know, so.",
+        "start": 1490.97,
+        "end": 1491.99,
+        "duration": 1.02
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "What what sort of timeline should we be <pause> thinking about?",
+        "start": 1492.41,
+        "end": 1496.19,
+        "duration": 3.78
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Of the first.",
+        "start": 1496.19,
+        "end": 1497.09,
+        "duration": 0.9
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "The first models that are actually made and <pause> sold.",
+        "start": 1497.09,
+        "end": 1500.75,
+        "duration": 3.66
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, <pause> you know, the the first units that that we tend to make are, <pause> <filler> for jobs that are dangerous, boring, repetitive, and things that people don't want to do.",
+        "start": 1501.5,
+        "end": 1511.19,
+        "duration": 9.69
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And then we'll see rapid growth year over year of the usefulness of <filler> humanoid robots, <filler> and decreasing cost and, and scaling up production.",
+        "start": 1522.26,
+        "end": 1529.49,
+        "duration": 7.23
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Initially just something to businesses.",
+        "start": 1529.79,
+        "end": 1531.41,
+        "duration": 1.62
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Or when you picture yourself, you'll start selling them where you can <pause> buy your <pause> parents one for Christmas or something.",
+        "start": 1531.62,
+        "end": 1538.73,
+        "duration": 7.11
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I'll a listen ten years.",
+        "start": 1539.4,
+        "end": 1540.47,
+        "duration": 1.07
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How how <pause> help me on the economics of this.",
+        "start": 1541.05,
+        "end": 1543.62,
+        "duration": 2.57
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So <pause> what do you picture the cost of one of these being.",
+        "start": 1543.62,
+        "end": 1546.65,
+        "duration": 3.03
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, I think the cost is actually not going to be, <filler> crazy high.",
+        "start": 1547.16,
+        "end": 1550.4,
+        "duration": 3.24
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So even if it starts at 50 K, within a few years it's down to 20 K or lower or whatever.",
+        "start": 1567.59,
+        "end": 1572.33,
+        "duration": 4.74
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How worried should the world be about that?",
+        "start": 1596.63,
+        "end": 1598.58,
+        "duration": 1.95
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I wouldn't worry about the the sort of putting people out of a job thing.",
+        "start": 1599.3,
+        "end": 1602.39,
+        "duration": 3.09
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Any goods and services, <pause> <filler> will be available to anyone who wants them.",
+        "start": 1623.45,
+        "end": 1628.43,
+        "duration": 4.98
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And presumably, it should be possible to imagine <pause> a bunch of goods and services that can't profitably be made now, but could be made in Europe, in that world, courtesy of of <pause> legions of robots.",
+        "start": 1631.61,
+        "end": 1642.98,
+        "duration": 11.37
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 1643.28,
+        "end": 1643.55,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Okay, so AI is <pause> allowing us to imagine a differently powered economy that will create this abundance.",
+        "start": 1652.52,
+        "end": 1659.57,
+        "duration": 7.05
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, like I said, <pause> AI and robotics will <pause> will bring, <pause> bring out what might be termed the age of abundance.",
+        "start": 1662.06,
+        "end": 1670.52,
+        "duration": 8.46
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, and, <filler> goes in a direction that for some reason, we don't like of whatever, <pause> whatever direction might go.",
+        "start": 1693.26,
+        "end": 1698.96,
+        "duration": 5.7
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So <pause> even if it doesn't succeed in the greater call, it will.",
+        "start": 1719.81,
+        "end": 1722.33,
+        "duration": 2.52
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I think it will succeed in, in the, <filler> goal of alleviating, <filler> brain and spine damage.",
+        "start": 1722.54,
+        "end": 1727.91,
+        "duration": 5.37
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So the spirit there is that if we're going to make these AIS that are so vastly intelligent, we ought to be wired directly to them so that <pause> we ourselves can have <pause> the superpowers more, more directly.",
+        "start": 1728.3,
+        "end": 1738.95,
+        "duration": 10.65
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I think it's a risk.",
+        "start": 1748.22,
+        "end": 1748.88,
+        "duration": 0.66
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I agree, I don't <pause> I'm not saying that I have some, <pause> certain, <filler> answer to that risk.",
+        "start": 1748.88,
+        "end": 1756.23,
+        "duration": 7.35
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I'm I'm <pause> I'm just saying, like, like maybe one of the things that would <pause> be good for <pause> ensuring that, <filler> the future is the <pause> one that we want is to more tightly coupled, <pause> the human world, collective human.",
+        "start": 1756.23,
+        "end": 1772.58,
+        "duration": 16.35
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, to <pause> digital intelligence.",
+        "start": 1772.58,
+        "end": 1774.71,
+        "duration": 2.13
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But everything online is still there.",
+        "start": 1796.91,
+        "end": 1798.38,
+        "duration": 1.47
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "All right.",
+        "start": 1814.42,
+        "end": 1815.0,
+        "duration": 0.58
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "At a rate that's maybe <pause> ten bit per second, optimistically, 100 bits per second.",
+        "start": 1815.36,
+        "end": 1820.49,
+        "duration": 5.13
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Have you seen evidence that the technology is actually working, that you've got you've got a richer sort of <pause> higher bandwidth connection, if you like, <pause> <filler> between like <pause> external electronics and a brain than has been possible before.",
+        "start": 1826.46,
+        "end": 1837.47,
+        "duration": 11.01
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 1838.07,
+        "end": 1838.43,
+        "duration": 0.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So <pause> the, <pause> I mean, the, the fundamental principles of, <filler> of reading neurons, <pause> <filler> sort of <pause> being read right on neurons <pause> with tiny electrodes, <filler> have been demonstrated for decades.",
+        "start": 1838.43,
+        "end": 1852.47,
+        "duration": 14.04
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Right.",
+        "start": 1867.53,
+        "end": 1867.74,
+        "duration": 0.21
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <pause> <filler> but but <pause> the way to think of the neural device is kind of like, <filler> <pause> a Fitbit or an Apple Watch.",
+        "start": 1887.9,
+        "end": 1896.96,
+        "duration": 9.06
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And, <pause> and, but but with, with tiny, tiny wires, very, very tiny wires tied <pause> to wires so tiny it's hard to even see them.",
+        "start": 1915.98,
+        "end": 1923.81,
+        "duration": 7.83
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How far you from putting <pause> is into humans?",
+        "start": 1930.11,
+        "end": 1932.75,
+        "duration": 2.64
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I well, we we have, <filler> put in our FDA application, <filler> to have the, <pause> aspirationally due to the first, <filler> human implant this year.",
+        "start": 1933.5,
+        "end": 1942.86,
+        "duration": 9.36
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "The first <pause> uses will be for neurological injuries of different kinds.",
+        "start": 1943.28,
+        "end": 1947.78,
+        "duration": 4.5
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes, but.",
+        "start": 1947.81,
+        "end": 1948.41,
+        "duration": 0.6
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Running the clock forward and imagining when when people are actually <pause> using these for their own <pause> enhancement, let's say, and for the enhancement of the world <pause> to <pause> how clear you in your mind as to what it will <pause> feel like to have one of these inside your head.",
+        "start": 1948.41,
+        "end": 1964.64,
+        "duration": 16.23
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, I do wanna emphasize we're <pause> we're <filler> at <pause> an early stage.",
+        "start": 1965.24,
+        "end": 1969.17,
+        "duration": 3.93
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And so, <pause> it really will be many years before we have <pause> anything, <filler> approximating, <filler> high bandwidth.",
+        "start": 1969.17,
+        "end": 1978.23,
+        "duration": 9.06
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And this is not something that will suddenly <pause> one day <pause> it'll we'll have this incredible, <filler> sort of, <pause> whole brain interface, <filler> <pause> it's going to be, <pause> like I said, at least a decade of of really just solving, <filler> brain injuries and spinal injuries.",
+        "start": 1995.3,
+        "end": 2011.68,
+        "duration": 16.38
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's, <filler> it's <pause> potentially schizophrenia.",
+        "start": 2021.72,
+        "end": 2024.31,
+        "duration": 2.59
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Like a lot of things that cause <pause> great stress to people, <pause> <filler> restoring, <filler> memory, in older people.",
+        "start": 2024.34,
+        "end": 2031.81,
+        "duration": 7.47
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "If you can pull that off, that is that that's the app I will sign up for.",
+        "start": 2031.81,
+        "end": 2035.56,
+        "duration": 3.75
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I, <pause> I, I would <pause> please hurry.",
+        "start": 2035.8,
+        "end": 2038.2,
+        "duration": 2.4
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 2038.62,
+        "end": 2038.83,
+        "duration": 0.21
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And, <pause> I mean, the, <pause> the emails that we got at Neuralink, <filler> are heartbreaking.",
+        "start": 2038.83,
+        "end": 2044.86,
+        "duration": 6.03
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But but you have you have said that AI is one of the things you're most worried about, and that Neuralink <pause> may be one of the ways where we can <pause> keep abreast of it.",
+        "start": 2064.36,
+        "end": 2074.74,
+        "duration": 10.38
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 2075.52,
+        "end": 2075.76,
+        "duration": 0.24
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So it's <pause> there's <pause> that there's <pause> the short term thing, which I think is helpful on an individual human level, <pause> <filler> with, with injuries.",
+        "start": 2075.76,
+        "end": 2083.05,
+        "duration": 7.29
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And in the long term thing is <pause> an attempt to, <pause> address the civilizational risk of, of AI by, <pause> <filler> bringing, bringing, <filler> digital intelligence and biological intelligence, <filler> closer together.",
+        "start": 2083.05,
+        "end": 2098.02,
+        "duration": 14.97
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "There's the limbic system and the cortex.",
+        "start": 2102.07,
+        "end": 2104.23,
+        "duration": 2.16
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yep, yep.",
+        "start": 2104.23,
+        "end": 2104.56,
+        "duration": 0.33
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "The kind of animal brain where <pause> it's kind of like the fun part, really.",
+        "start": 2104.56,
+        "end": 2107.65,
+        "duration": 3.09
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And so most of Twitter operates, by the way.",
+        "start": 2108.4,
+        "end": 2110.11,
+        "duration": 1.71
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, we're, <pause> I think like to move, have this, like, <pause> we're like, we're like somebody, <filler> you know, stuck a computer on a monkey, right.",
+        "start": 2110.59,
+        "end": 2117.82,
+        "duration": 7.23
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's not.",
+        "start": 2128.02,
+        "end": 2128.29,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's not a monkey instinct.",
+        "start": 2128.29,
+        "end": 2129.22,
+        "duration": 0.93
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's something more important than that.",
+        "start": 2129.22,
+        "end": 2130.21,
+        "duration": 0.99
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But it's often just really a monkey instinct.",
+        "start": 2130.21,
+        "end": 2131.68,
+        "duration": 1.47
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I've not yet met anyone who wants to delete the limbic system or their cortex.",
+        "start": 2146.86,
+        "end": 2150.64,
+        "duration": 3.78
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "They're quite happy having both.",
+        "start": 2150.64,
+        "end": 2152.17,
+        "duration": 1.53
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Everyone wants both parts of their brain.",
+        "start": 2152.17,
+        "end": 2154.27,
+        "duration": 2.1
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And it's just a very tiny straw <pause> chip to this tertiary layer.",
+        "start": 2171.58,
+        "end": 2175.45,
+        "duration": 3.87
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And we want to make that tiny straw a big highway.",
+        "start": 2175.45,
+        "end": 2178.06,
+        "duration": 2.61
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And that's still a great outcome, right?",
+        "start": 2196.81,
+        "end": 2198.21,
+        "duration": 1.4
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Best case scenario, we may discover new human possibility.",
+        "start": 2198.31,
+        "end": 2200.95,
+        "duration": 2.64
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Let's have a chat about reusability.",
+        "start": 2225.1,
+        "end": 2226.69,
+        "duration": 1.59
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And you had just demonstrated that spectacularly that for the first time since then, you've gone on to build this monster, <filler> rocket starship, <pause> <filler> which kind of changes the rules of the game and in spectacular ways.",
+        "start": 2226.69,
+        "end": 2239.8,
+        "duration": 13.11
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Tell us, tell us about Starship.",
+        "start": 2239.98,
+        "end": 2241.63,
+        "duration": 1.65
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 2241.63,
+        "end": 2241.99,
+        "duration": 0.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And, <pause> <filler> we've not done that over 100 times.",
+        "start": 2270.31,
+        "end": 2273.31,
+        "duration": 3.0
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <filler> with Starship, <pause> <filler> we will be recovering, <filler> the entire thing.",
+        "start": 2273.49,
+        "end": 2279.49,
+        "duration": 6.0
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "That's what this that's the goal, <pause> right?",
+        "start": 2279.64,
+        "end": 2281.5,
+        "duration": 1.86
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <filler> but with Starship, the design, <pause> <filler> goal is, <filler> immediate flight.",
+        "start": 2295.33,
+        "end": 2301.45,
+        "duration": 6.12
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And it's <pause> the main design is, is, <pause> is to basically take what, 100 plus people at a time, plus a bunch of <pause> things that they need to Mars.",
+        "start": 2313.54,
+        "end": 2325.03,
+        "duration": 11.49
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Let's let's go.",
+        "start": 2343.18,
+        "end": 2344.02,
+        "duration": 0.84
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Sure.",
+        "start": 2344.53,
+        "end": 2344.89,
+        "duration": 0.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But and and just to put <pause> the cost thing into perspective, <pause> the, the, the cost of <pause> expected cost of Starship putting 100 tons into orbit, <filler> is significantly less than what, <pause> it would have cost.",
+        "start": 2345.01,
+        "end": 2360.79,
+        "duration": 15.78
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "You know, <pause> small print that was thrown away.",
+        "start": 2375.17,
+        "end": 2377.2,
+        "duration": 2.03
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And <pause> Mars has a CO2 atmosphere and has water ice, which is CO2 plus H2O.",
+        "start": 2403.33,
+        "end": 2408.34,
+        "duration": 5.01
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So you can make C-H for methane and O2.",
+        "start": 2408.34,
+        "end": 2410.86,
+        "duration": 2.52
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Oxygen <pause> on Mars.",
+        "start": 2410.86,
+        "end": 2412.21,
+        "duration": 1.35
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Is one of the first tasks of Mars will be to create <pause> a fuel plant that can create the fuel for the return <filler> trips of many starships.",
+        "start": 2412.43,
+        "end": 2420.37,
+        "duration": 7.94
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 2420.49,
+        "end": 2420.88,
+        "duration": 0.39
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And, <filler> actually, <pause> it's mostly gonna be an oxygen plant, but it but it's it's because it's, <filler> it's it's <pause> 78% oxygen, 22% fuel.",
+        "start": 2421.03,
+        "end": 2430.3,
+        "duration": 9.27
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Nothing thrown away.",
+        "start": 2443.74,
+        "end": 2444.79,
+        "duration": 1.05
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Because the point at which have a propellant deep on Mars, you can then travel to the asteroid belt, <pause> <filler> and to the moons of Jupiter and <pause> Saturn and ultimately anywhere in the solar system.",
+        "start": 2468.88,
+        "end": 2479.83,
+        "duration": 10.95
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Right.",
+        "start": 2479.83,
+        "end": 2480.13,
+        "duration": 0.3
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But your main for your main, for focus on <pause> space <pause> is main.",
+        "start": 2480.52,
+        "end": 2484.06,
+        "duration": 3.54
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Focus.",
+        "start": 2484.06,
+        "end": 2484.45,
+        "duration": 0.39
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Is still <pause> Mars like that?",
+        "start": 2484.45,
+        "end": 2486.63,
+        "duration": 2.18
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "That is that is the that is the mission.",
+        "start": 2486.64,
+        "end": 2488.53,
+        "duration": 1.89
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "That is that is where most of the effort <pause> will go.",
+        "start": 2488.53,
+        "end": 2492.28,
+        "duration": 3.75
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Perhaps <pause> NASA wants to use the rocket for that reason.",
+        "start": 2508.69,
+        "end": 2513.01,
+        "duration": 4.32
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, that's what NASA <pause> is planning to use, <filler> Starship to return to the moon.",
+        "start": 2513.4,
+        "end": 2518.59,
+        "duration": 5.19
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "To return, <pause> people to the moon.",
+        "start": 2518.59,
+        "end": 2520.18,
+        "duration": 1.59
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's not suitable for going to another star system, but it is a general solution for transport anywhere in the in the solar system.",
+        "start": 2539.35,
+        "end": 2545.38,
+        "duration": 6.03
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Before it can do any of that, it's got to demonstrate it can get into orbit <filler> around Earth.",
+        "start": 2545.68,
+        "end": 2550.42,
+        "duration": 4.74
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Well, what's, what's what's what's what's your latest device on that on the <pause> timeline for that.",
+        "start": 2550.42,
+        "end": 2555.49,
+        "duration": 5.07
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's looking promising for us to have an orbital launch attempt, <filler> in, <pause> in a few months.",
+        "start": 2555.61,
+        "end": 2561.31,
+        "duration": 5.7
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <pause> <filler> assuming we get regulatory approval, I think we could have a, <filler> <pause> an orbital launch attempt, <filler> within a few months.",
+        "start": 2580.69,
+        "end": 2590.5,
+        "duration": 9.81
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "A radical new technology like this, presumably there is real risk on those early.",
+        "start": 2591.04,
+        "end": 2594.73,
+        "duration": 3.69
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Oh.",
+        "start": 2594.93,
+        "end": 2595.03,
+        "duration": 0.1
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 2595.63,
+        "end": 2595.75,
+        "duration": 0.12
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, yeah.",
+        "start": 2595.75,
+        "end": 2596.17,
+        "duration": 0.42
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Like that.",
+        "start": 2596.2,
+        "end": 2596.52,
+        "duration": 0.32
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, the joke I make all the time is that, <pause> excitement is guaranteed.",
+        "start": 2596.54,
+        "end": 2600.76,
+        "duration": 4.22
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Success is not guaranteed, but excitement certainly is.",
+        "start": 2600.76,
+        "end": 2603.04,
+        "duration": 2.28
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But the like the last I saw on your timeline, <pause> you've slightly put back <pause> the expected date to put <pause> the first human on Mars till 2029.",
+        "start": 2603.52,
+        "end": 2612.25,
+        "duration": 8.73
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I want to say.",
+        "start": 2612.4,
+        "end": 2613.21,
+        "duration": 0.81
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah, I mean, so, so, <pause> <filler> let's see.",
+        "start": 2613.84,
+        "end": 2616.99,
+        "duration": 3.15
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, <pause> we are we have built a production system for Starship, so we're <pause> be making a lot of ships and boosters.",
+        "start": 2616.99,
+        "end": 2623.62,
+        "duration": 6.63
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And how many do you plan to make?",
+        "start": 2623.77,
+        "end": 2625.3,
+        "duration": 1.53
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Actually?",
+        "start": 2625.3,
+        "end": 2625.66,
+        "duration": 0.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, we're currently expecting to, <filler> make <pause> a <pause> a booster and a ship roughly, <filler> every, well, initially, roughly every couple of months.",
+        "start": 2625.99,
+        "end": 2635.35,
+        "duration": 9.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And hopefully by beginning of this year, <pause> one every month.",
+        "start": 2635.35,
+        "end": 2638.92,
+        "duration": 3.57
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So it's giant rockets, but a lot and a lot of them just in terms of talking in terms of rough orders of magnitude in order to create a self-sustaining city on Mars, <pause> I think the <pause> you <pause> will need something on the order of a thousand ships.",
+        "start": 2638.92,
+        "end": 2651.76,
+        "duration": 12.84
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Then we just need a we just need a Helen <pause> of of <pause> of Sparta.",
+        "start": 2652.18,
+        "end": 2656.47,
+        "duration": 4.29
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "This it this is not in most people's heads.",
+        "start": 2659.32,
+        "end": 2661.24,
+        "duration": 1.92
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "The planet that launched a thousand ships.",
+        "start": 2661.48,
+        "end": 2662.77,
+        "duration": 1.29
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "That's that's nice.",
+        "start": 2664.54,
+        "end": 2665.26,
+        "duration": 0.72
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I it that that <pause> that <pause> picture is just completely <pause> mind blowing to me.",
+        "start": 2685.52,
+        "end": 2691.0,
+        "duration": 5.48
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah, that that sense of this armada of humans <pause> going, yeah, like.",
+        "start": 2691.0,
+        "end": 2694.93,
+        "duration": 3.93
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Battlestar Galactica, the fleet <pause> departs.",
+        "start": 2694.93,
+        "end": 2697.06,
+        "duration": 2.13
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And you think that that it can <pause> be funded by people <pause> spending maybe a <pause> couple hundred grand on a ticket to <pause> to <pause> Mars?",
+        "start": 2697.06,
+        "end": 2703.81,
+        "duration": 6.75
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Is that is that price about where <pause> where it has been?",
+        "start": 2703.81,
+        "end": 2706.39,
+        "duration": 2.58
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, hey, if <pause> what's what's net worth required in order to get enough people and enough cargo to Mars to, <filler> build a self-sustaining city, <pause> <filler> and it's where you have an intersection of sets of <pause> people who want to go, because <pause> I think only a small <pause> percentage of humanity will want to go, <pause> <filler> and can afford to go or get sponsorship in some manner.",
+        "start": 2707.41,
+        "end": 2730.6,
+        "duration": 23.19
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "That intersection of sets I think needs to be a million people or something like that.",
+        "start": 2731.32,
+        "end": 2735.28,
+        "duration": 3.96
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We want to make it available to anyone who wants to go.",
+        "start": 2765.28,
+        "end": 2767.08,
+        "duration": 1.8
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 2767.17,
+        "end": 2767.44,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's sort of like the sales pitch for going to Mars is it's it's it's dangerous.",
+        "start": 2788.89,
+        "end": 2793.45,
+        "duration": 4.56
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's cramped.",
+        "start": 2793.45,
+        "end": 2794.2,
+        "duration": 0.75
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Right?",
+        "start": 2801.34,
+        "end": 2801.67,
+        "duration": 0.33
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It'll be glorious.",
+        "start": 2804.97,
+        "end": 2806.32,
+        "duration": 1.35
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Right.",
+        "start": 2806.32,
+        "end": 2806.65,
+        "duration": 0.33
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's the people of Mars.",
+        "start": 2816.82,
+        "end": 2817.84,
+        "duration": 1.02
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "The city.",
+        "start": 2817.87,
+        "end": 2818.41,
+        "duration": 0.54
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Or, <pause> World War three, <filler> or, you know, <pause> any one of a number of reasons.",
+        "start": 2844.09,
+        "end": 2849.79,
+        "duration": 5.7
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 2879.16,
+        "end": 2879.27,
+        "duration": 0.11
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And, <filler> it could just go out.",
+        "start": 2879.34,
+        "end": 2881.11,
+        "duration": 1.77
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I think that's powerful.",
+        "start": 2881.11,
+        "end": 2881.83,
+        "duration": 0.72
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And I think I think a lot of people will be inspired by that vision.",
+        "start": 2881.83,
+        "end": 2884.74,
+        "duration": 2.91
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's <pause> really that like the, the critical threshold is, <pause> <filler> if the ships from Earth stop coming for any reason, right.",
+        "start": 2891.99,
+        "end": 2901.6,
+        "duration": 9.61
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "There is various great filters that the aliens didn't pass.",
+        "start": 2919.54,
+        "end": 2922.27,
+        "duration": 2.73
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And and so <pause> they eventually just <pause> cease to exist.",
+        "start": 2922.27,
+        "end": 2926.53,
+        "duration": 4.26
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But I'd like I'd like to at least see <pause> us make a great progress in this direction.",
+        "start": 2941.5,
+        "end": 2946.78,
+        "duration": 5.28
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Given how tortured the earth is right now, how much we're <pause> beating each other up.",
+        "start": 2947.14,
+        "end": 2951.64,
+        "duration": 4.5
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, I think ultimately this will be up to the people of Mars to decide what, <filler> how they want to <pause> rethink society.",
+        "start": 2974.95,
+        "end": 2982.6,
+        "duration": 7.65
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I and I would advocate for <pause> more of a direct democracy, not a representative democracy.",
+        "start": 2999.91,
+        "end": 3004.29,
+        "duration": 4.38
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Coming back a bit nearer term, I'd love you to just talk a bit <pause> about some of the other possibilities SpaceX <pause> Starship, <pause> <filler> seems to have created.",
+        "start": 3014.28,
+        "end": 3023.19,
+        "duration": 8.91
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah.",
+        "start": 3023.25,
+        "end": 3023.35,
+        "duration": 0.1
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So given given <pause> suddenly we've got this ability to move 100 tons plus into orbit.",
+        "start": 3023.4,
+        "end": 3028.11,
+        "duration": 4.71
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 3028.2,
+        "end": 3028.59,
+        "duration": 0.39
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So we've just spent we've just launched the James Webb Telescope, which is an <pause> incredible thing.",
+        "start": 3029.07,
+        "end": 3034.23,
+        "duration": 5.16
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It's unbelievable.",
+        "start": 3034.23,
+        "end": 3035.19,
+        "duration": 0.96
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Absolutely exquisite piece of technology.",
+        "start": 3035.19,
+        "end": 3037.29,
+        "duration": 2.1
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Exquisite piece of technology.",
+        "start": 3037.29,
+        "end": 3038.52,
+        "duration": 1.23
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But people spent two years trying to figure out how to fold up this thing.",
+        "start": 3038.52,
+        "end": 3041.49,
+        "duration": 2.97
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It's a three ton.",
+        "start": 3041.49,
+        "end": 3042.27,
+        "duration": 0.78
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It's a three ton telescope.",
+        "start": 3042.51,
+        "end": 3043.77,
+        "duration": 1.26
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We can make it a lot easier if you've got more volume in mass.",
+        "start": 3043.8,
+        "end": 3046.08,
+        "duration": 2.28
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Well, <pause> let's let's that's a different question.",
+        "start": 3046.11,
+        "end": 3048.87,
+        "duration": 2.76
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Which is what what <pause> what <filler> how much more powerful <pause> a telescope <pause> could someone design based on using Starship, <pause> for example?",
+        "start": 3048.87,
+        "end": 3058.29,
+        "duration": 9.42
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, roughly, I'd say it's probably an order of magnitude more resolution.",
+        "start": 3059.68,
+        "end": 3063.25,
+        "duration": 3.57
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And what about other, <pause> exploration through the solar system?",
+        "start": 3068.73,
+        "end": 3072.33,
+        "duration": 3.6
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, I'm, I'm, you know, <pause> you're <filler> you are you're a.",
+        "start": 3072.33,
+        "end": 3075.96,
+        "duration": 3.63
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Big question mark.",
+        "start": 3076.41,
+        "end": 3077.22,
+        "duration": 0.81
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Right?",
+        "start": 3077.22,
+        "end": 3077.55,
+        "duration": 0.33
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So so there's a notion there, right?",
+        "start": 3077.55,
+        "end": 3079.02,
+        "duration": 1.47
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And what you really want to do is to drop a submarine into the <pause> river.",
+        "start": 3079.14,
+        "end": 3082.22,
+        "duration": 3.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "There's, like, some squid civilization, <filler> under the <pause> cephalopod <pause> civilization, under the ice of Europe.",
+        "start": 3082.29,
+        "end": 3087.98,
+        "duration": 5.69
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "That'd be pretty interesting.",
+        "start": 3087.99,
+        "end": 3088.8,
+        "duration": 0.81
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, Elon, if you could take a submarine to Europa and we see pictures of this thing being devoured by a squid, <pause> that would honestly be the happiest moment of our life, right?",
+        "start": 3088.83,
+        "end": 3098.58,
+        "duration": 9.75
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, yeah, I would be.",
+        "start": 3098.64,
+        "end": 3099.9,
+        "duration": 1.26
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "What are the <pause> possibilities are out there?",
+        "start": 3100.65,
+        "end": 3103.14,
+        "duration": 2.49
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Like, it feels like <pause> if you're going to create a thousand of these things, <pause> they can only fly to Mars every two years.",
+        "start": 3103.14,
+        "end": 3110.49,
+        "duration": 7.35
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "What are they doing?",
+        "start": 3110.67,
+        "end": 3111.57,
+        "duration": 0.9
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, I don't know if we're suddenly got a long way to go, as you alluded to <pause> earlier, we've we still have to get to orbit.",
+        "start": 3119.67,
+        "end": 3124.83,
+        "duration": 5.16
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I <pause> highly confident we will solve this at this point.",
+        "start": 3142.86,
+        "end": 3145.53,
+        "duration": 2.67
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Ever wake up with the fear that there's going to be this Hindenburg moment for space X, where.",
+        "start": 3146.13,
+        "end": 3151.05,
+        "duration": 4.92
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We've had <pause> many Hindenburg?",
+        "start": 3151.74,
+        "end": 3153.06,
+        "duration": 1.32
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, we've we've never had Hindenburg moments with people, <filler> which is a very important big difference.",
+        "start": 3153.06,
+        "end": 3157.35,
+        "duration": 4.29
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Right <filler> there.",
+        "start": 3157.35,
+        "end": 3157.8,
+        "duration": 0.45
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Is <pause> what we've blown up quite a few rockets.",
+        "start": 3157.8,
+        "end": 3160.23,
+        "duration": 2.43
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So there's, we have a, <pause> there's a whole compilation online that we've put together and others put together.",
+        "start": 3160.23,
+        "end": 3164.7,
+        "duration": 4.47
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We have a strong gravity and a thick atmosphere, and, <filler> <pause> and Mars, which is, <pause> <filler> less than 40% of its gigantic 37% of Earth's gravity, <filler> and has a thin atmosphere.",
+        "start": 3174.99,
+        "end": 3187.08,
+        "duration": 12.09
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So <pause> Elon <pause> is, <pause> So think more about this incredible array of things that you're involved with.",
+        "start": 3197.64,
+        "end": 3203.52,
+        "duration": 5.88
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Doesn't need a million people.",
+        "start": 3223.59,
+        "end": 3224.67,
+        "duration": 1.08
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It needs half a million people on half a million robots.",
+        "start": 3224.67,
+        "end": 3227.19,
+        "duration": 2.52
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Sure.",
+        "start": 3227.31,
+        "end": 3227.46,
+        "duration": 0.15
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And, <filler> that's a possibility.",
+        "start": 3227.55,
+        "end": 3229.35,
+        "duration": 1.8
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yeah.",
+        "start": 3237.36,
+        "end": 3237.63,
+        "duration": 0.27
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Back on planet Earth, <pause> it seems like a partnership between Boring Company and Tesla <pause> could offer an unbelievable <pause> deal to a city to say, we will create for you a 3D network of tunnels <pause> populated by robotaxis.",
+        "start": 3238.8,
+        "end": 3254.07,
+        "duration": 15.27
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah, that will offer fast, low cost transport to anyone <pause> you know, full self-driving may or may not be done this year.",
+        "start": 3254.07,
+        "end": 3261.39,
+        "duration": 7.32
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And in some cities, like somewhere like Mumbai, <pause> I suspect won't be done for a decade, new.",
+        "start": 3261.57,
+        "end": 3266.52,
+        "duration": 4.95
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Places are more challenging than others.",
+        "start": 3266.52,
+        "end": 3268.35,
+        "duration": 1.83
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But <pause> today, today, with what you've got, you could put <pause> a 3D <pause> network of tunnels under that.",
+        "start": 3268.41,
+        "end": 3275.51,
+        "duration": 7.1
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Oh, which isn't a tunnel.",
+        "start": 3275.52,
+        "end": 3276.45,
+        "duration": 0.93
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "That's a salt problem.",
+        "start": 3276.45,
+        "end": 3277.26,
+        "duration": 0.81
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Except for self-driving cars itself.",
+        "start": 3277.86,
+        "end": 3279.24,
+        "duration": 1.38
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "This is a real possibility.",
+        "start": 3292.36,
+        "end": 3294.02,
+        "duration": 1.66
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's a, <pause> yeah, <pause> but the fastest way to get from one place to another <pause> if it's long distance is is a rocket.",
+        "start": 3294.15,
+        "end": 3301.89,
+        "duration": 7.74
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's like <filler> <pause> it's basically ICBM, right?",
+        "start": 3301.89,
+        "end": 3304.74,
+        "duration": 2.85
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But it has to.",
+        "start": 3305.55,
+        "end": 3306.03,
+        "duration": 0.48
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Land and delete the nuke.",
+        "start": 3306.03,
+        "end": 3307.14,
+        "duration": 1.11
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Because it's an ICBM.",
+        "start": 3307.56,
+        "end": 3308.73,
+        "duration": 1.17
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Yes.",
+        "start": 3310.92,
+        "end": 3311.32,
+        "duration": 0.4
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I <filler> a love this land.",
+        "start": 3311.33,
+        "end": 3312.33,
+        "duration": 1.0
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So, so <pause> why not have a tunnel that then connects to the city with <pause> so <pause> and Neuralink?",
+        "start": 3312.51,
+        "end": 3321.9,
+        "duration": 9.39
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I mean, if you're going to go to Mars <pause> having a telepathic connection with loved ones back home, even if there's a time delay, I mean, I'm.",
+        "start": 3321.9,
+        "end": 3328.44,
+        "duration": 6.54
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Not I if these are not intended to be connected <pause> by the way <pause> they just.",
+        "start": 3328.44,
+        "end": 3332.61,
+        "duration": 4.17
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Surely there is a growing argument that you should actually put all these things together into <pause> one company and just just have a company <pause> devoted to creating a future that's exciting <pause> and let a thousand flowers bloom.",
+        "start": 3335.7,
+        "end": 3350.34,
+        "duration": 14.64
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Have you have you been thinking about that?",
+        "start": 3350.34,
+        "end": 3351.6,
+        "duration": 1.26
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, it is tricky because Tesla is a publicly traded company and, <filler> the investor base of <pause> Tesla and SpaceX <pause> and, and certainly Boring Company and Neuralink are quite <pause> different in one company or like, <filler> are tiny companies just right <pause> like capacity audience mean me <pause> yeah.",
+        "start": 3353.34,
+        "end": 3370.68,
+        "duration": 17.34
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <filler> they're <pause> little, little tiny companies, but they will probably get bigger in the future.",
+        "start": 3381.81,
+        "end": 3387.0,
+        "duration": 5.19
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "They will get bigger in the future.",
+        "start": 3387.09,
+        "end": 3388.11,
+        "duration": 1.02
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Traditionally you've said that for SpaceX especially, you don't <filler> you wouldn't want it public because public investors wouldn't <pause> support it.",
+        "start": 3393.78,
+        "end": 3400.23,
+        "duration": 6.45
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Make your life multi-planetary is outside of the the normal, <filler> <pause> time horizon of Wall Street, analysts <pause> say at least I.",
+        "start": 3404.67,
+        "end": 3413.85,
+        "duration": 9.18
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Think something's changed, though.",
+        "start": 3413.85,
+        "end": 3416.28,
+        "duration": 2.43
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And it might it might <pause> unlock a lot more possibility <pause> for you now.",
+        "start": 3437.07,
+        "end": 3441.8,
+        "duration": 4.73
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, I would like to give the public access to, <pause> <filler> ownership of space X, <pause> but, <pause> I mean, the thing that, <pause> like the the overhead associated with public company, <pause> <filler> is high.",
+        "start": 3442.08,
+        "end": 3455.64,
+        "duration": 13.56
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Right?",
+        "start": 3469.05,
+        "end": 3469.23,
+        "duration": 0.18
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But you still only have one <pause> public company.",
+        "start": 3469.56,
+        "end": 3472.38,
+        "duration": 2.82
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "It would be bigger <pause> and, <filler> have more things going on, but instead of being on full boards, you'd be on one.",
+        "start": 3472.41,
+        "end": 3477.69,
+        "duration": 5.28
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Oh, I'm actually not even on the Neuralink or Boring Company board.",
+        "start": 3477.84,
+        "end": 3480.81,
+        "duration": 2.97
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I think some investors probably worry about how your time has been split, and they would be they might be excited by, <pause> you know, that.",
+        "start": 3495.57,
+        "end": 3501.18,
+        "duration": 5.61
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But anyway, I, <pause> I just <pause> I just woke up the other day, I think I think it just there are so many ways in which these things connect, and you know, <pause> that just the nuts, the simplicity of that mission of building a future that is worth getting excited about <pause> might might appeal to, <filler> an awful lot of people.",
+        "start": 3501.18,
+        "end": 3519.3,
+        "duration": 18.12
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Elon, <pause> you, <filler> reported by Forbes and everyone else is now, you know, the world's richest person.",
+        "start": 3520.95,
+        "end": 3527.79,
+        "duration": 6.84
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "That's not a sovereign.",
+        "start": 3528.15,
+        "end": 3528.99,
+        "duration": 0.84
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So.",
+        "start": 3539.28,
+        "end": 3539.76,
+        "duration": 0.48
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But it's just harder to measure.",
+        "start": 3539.93,
+        "end": 3540.9,
+        "duration": 0.97
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "But what people do.",
+        "start": 3540.9,
+        "end": 3541.5,
+        "duration": 0.6
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So.",
+        "start": 3541.56,
+        "end": 3541.74,
+        "duration": 0.18
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "So $300 billion, <pause> I mean, your your net worth <pause> on any given day is <pause> rising or falling by several billion dollars.",
+        "start": 3541.77,
+        "end": 3550.68,
+        "duration": 8.91
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How is so <filler> I'm saying this that.",
+        "start": 3550.68,
+        "end": 3552.82,
+        "duration": 2.14
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah.",
+        "start": 3552.84,
+        "end": 3553.14,
+        "duration": 0.3
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I actually don't think about that too much.",
+        "start": 3560.37,
+        "end": 3562.2,
+        "duration": 1.83
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But the, <pause> the thing that is actually, <filler> more, more difficult and that does make sleeping difficult is <pause> that, <filler> <pause> you know, at every good hour, <pause> <filler> or even minute of thinking about, <filler> Tesla <pause> and SpaceX <pause> has such a big effect on the company <pause> that I really try to work as, as, as much as possible, <filler> you know, to to the edge of sanity, basically, <pause> <filler> because the, <pause> you know, Tesla's getting to the point where, <pause> probably we'll get to the point later this year where <pause> every good, <pause> every high quality minute of thinking, <pause> is $1 million to, <pause> impact on, on Tesla.",
+        "start": 3562.2,
+        "end": 3605.7,
+        "duration": 43.5
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <pause> which is insane.",
+        "start": 3605.85,
+        "end": 3609.33,
+        "duration": 3.48
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "If you can change that by 5% <pause> in an hour's brainstorm, <filler> that that <pause> doesn't be valuable.",
+        "start": 3629.01,
+        "end": 3636.06,
+        "duration": 7.05
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, there there are <pause> many instances where, <filler> a half hour meeting with that, I was able to improve the financial outcome with the company.",
+        "start": 3637.5,
+        "end": 3645.03,
+        "duration": 7.53
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "There are many other people out there who, who, who can't stand this world of of of billionaires like they are <pause> hugely offended by the notion that <pause> an individual <pause> can have the same wealth as a, say, a billion or more of the the world's poorest people.",
+        "start": 3650.43,
+        "end": 3666.9,
+        "duration": 16.47
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "If they examine sort of the <filler> sort of I think there's some axiomatic flaws, <filler> that that are leading to them <pause> to that conclusion, <pause> if for sure.",
+        "start": 3667.23,
+        "end": 3676.11,
+        "duration": 8.88
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It would be very problematic if I was consumer ING, <filler> you know, billions of dollars a year in personal consumption would.",
+        "start": 3676.11,
+        "end": 3683.19,
+        "duration": 7.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "But that is not the case.",
+        "start": 3683.19,
+        "end": 3684.33,
+        "duration": 1.14
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I'm literally staying <pause> at a friend's places.",
+        "start": 3687.06,
+        "end": 3689.34,
+        "duration": 2.28
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I <pause> if I travel to the Bay area, <pause> which is where most of Tesla engineering is, I stay in my I basically rotate through friends spare bedrooms.",
+        "start": 3689.34,
+        "end": 3697.38,
+        "duration": 8.04
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So, <pause> <filler> I.",
+        "start": 3713.76,
+        "end": 3715.41,
+        "duration": 1.65
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Mean, I personally think you have shown that you are mostly driven by a really quite a deep sense of moral purpose.",
+        "start": 3715.41,
+        "end": 3721.92,
+        "duration": 6.51
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "I like you've tried your, your, your attempts to <pause> solve the climate problem have, <pause> have been as powerful as <pause> anyone else on the planet that I'm aware of.",
+        "start": 3721.92,
+        "end": 3732.36,
+        "duration": 10.44
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And I actually can't, can't understand.",
+        "start": 3732.36,
+        "end": 3734.22,
+        "duration": 1.86
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "That's disgusting.",
+        "start": 3739.86,
+        "end": 3740.76,
+        "duration": 0.9
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I think if you care about the reality of goodness instead of the perception of it, philanthropic philanthropy is extremely difficult.",
+        "start": 3751.5,
+        "end": 3757.86,
+        "duration": 6.36
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "This is love of humanity.",
+        "start": 3781.5,
+        "end": 3783.24,
+        "duration": 1.74
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How <pause> how <pause> upsetting is it to you to hear this constant drumbeat of <pause> billionaires?",
+        "start": 3800.13,
+        "end": 3808.53,
+        "duration": 8.4
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "My god, Elon Musk?",
+        "start": 3808.53,
+        "end": 3809.61,
+        "duration": 1.08
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Oh my God.",
+        "start": 3809.61,
+        "end": 3810.18,
+        "duration": 0.57
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Like, is that do you do <pause> you just <pause> shrug that often.",
+        "start": 3810.18,
+        "end": 3813.27,
+        "duration": 3.09
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Does it does it actually hurt?",
+        "start": 3813.27,
+        "end": 3814.44,
+        "duration": 1.17
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I mean, <pause> at this point it's water off a duck's back.",
+        "start": 3816.47,
+        "end": 3818.7,
+        "duration": 2.23
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You know, I'd like to <pause> as we wrap up now, just <pause> pull the camera back and just think <pause> your father of seven <pause> surviving kids and.",
+        "start": 3819.33,
+        "end": 3829.41,
+        "duration": 10.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, I mean, I'll try to set a good example, because the birthrate on Earth is so low <pause> that we're facing civilizational collapse.",
+        "start": 3829.41,
+        "end": 3835.59,
+        "duration": 6.18
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Unless the birth rate, <filler> returns to <pause> a <pause> sustainable level.",
+        "start": 3835.59,
+        "end": 3840.57,
+        "duration": 4.98
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "Yeah.",
+        "start": 3841.65,
+        "end": 3841.77,
+        "duration": 0.12
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You've talked about this a lot, that depopulation is a big problem.",
+        "start": 3841.78,
+        "end": 3843.9,
+        "duration": 2.12
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Is, <filler> one of the biggest threats to the future of human civilization.",
+        "start": 3847.92,
+        "end": 3850.95,
+        "duration": 3.03
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "And that is what is going on right now.",
+        "start": 3850.95,
+        "end": 3852.12,
+        "duration": 1.17
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "How what what drives you on a day to day <pause> basis to do what you do?",
+        "start": 3852.42,
+        "end": 3856.47,
+        "duration": 4.05
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I guess, <pause> like, I, I really want to make sure that there is a good future for humanity, <filler> <pause> and that we're <pause> on a path to understanding the nature of the universe.",
+        "start": 3857.43,
+        "end": 3868.29,
+        "duration": 10.86
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Certainly, it must not diminish.",
+        "start": 3887.04,
+        "end": 3888.24,
+        "duration": 1.2
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "We go out, we we we certainly we want to understand the.",
+        "start": 3888.24,
+        "end": 3890.58,
+        "duration": 2.34
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "So I would say I mean motivated by curiosity more than anything.",
+        "start": 3890.6,
+        "end": 3894.03,
+        "duration": 3.43
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "And are you are you not sad?",
+        "start": 3903.63,
+        "end": 3905.34,
+        "duration": 1.71
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "I'm sometimes sad.",
+        "start": 3906.54,
+        "end": 3907.5,
+        "duration": 0.96
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "It's at its current level.",
+        "start": 3933.18,
+        "end": 3934.38,
+        "duration": 1.2
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "There's a there's a whole generation coming through who seem really sad about the future.",
+        "start": 3960.48,
+        "end": 3963.56,
+        "duration": 3.08
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "Well, I think if you want the future to be good, you must make it so.",
+        "start": 3967.32,
+        "end": 3970.11,
+        "duration": 2.79
+    },
+    {
+        "speaker_guid": "8c48f9de22243340d7a59c31aa813fb5",
+        "speaker_name": "Speaker 1",
+        "sentence": "You know, thank you for all this time.",
+        "start": 3977.13,
+        "end": 3979.35,
+        "duration": 2.22
+    },
+    {
+        "speaker_guid": "774a6ea747b923f12914d9b6ca17c689",
+        "speaker_name": "Speaker 2",
+        "sentence": "You're welcome.",
+        "start": 3983.25,
+        "end": 3983.61,
+        "duration": 0.36
+    }
+]
